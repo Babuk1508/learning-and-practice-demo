@@ -1,2 +1,3 @@
 # learning-and-practice-demo
-This is my practice Git Repository
+This is my practice Git Repository.
+Author - Krishna
